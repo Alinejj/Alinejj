@@ -39,8 +39,8 @@
 
 | Project | Description | Tech Stack |  
 |---------|-------------|------------|  
-| [✨ Predicting Stars, Galaxies & Quasars](https://github.com/Alinejj) | Built ML models (Decision Trees, Neural Nets) to classify celestial objects with >90% accuracy. | Python, Scikit-learn, Pandas |  
-| [My eCornell Portfolio](https://github.com/Alinejj) | Trained an ML Model from the book reviews dataset and achieved an 84% accuracy for predicting positive reviews. | Python |  
+| [✨ Predicting Stars, Galaxies & Quasars](https://github.com/Alinejj/Predicting-stars-galaxies-and-quasars) | Built ML models (Decision Trees, Neural Nets) to classify celestial objects with >90% accuracy. | Python, Scikit-learn, Pandas |  
+| [My eCornell Portfolio](https://github.com/Alinejj/My_eCornell_Portfolio) | Trained an ML Model from the book reviews dataset and achieved an 84% accuracy for predicting positive reviews. | Python |  
 
 
 ## 📚 Education  
